@@ -1,2 +1,2 @@
 # Tourism_Company_prateek_Negi
-A website for Tourism company for my city
+I've crafted a professional tourism website for Pauri, my hometown, using HTML. It offers easy navigation to sections like "About Us," "Contact Us," and "Climate," complemented by stunning imagery of Pauri's landscapes. Informative content highlights key aspects of the city, with links to Wikipedia for further details. This website enhances the tourism experience in Pauri.
